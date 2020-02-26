@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93328e38-31ea-4c04-93c0-942237c7a68f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zhihuuser" />
+  </component>
+  <component name="ProjectId" id="1Xnd91lYLmBc39AAn7WrNG2kfxn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93328e38-31ea-4c04-93c0-942237c7a68f" name="Default Changelist" comment="" />
+      <created>1581685637425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581685637425</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="195" y="299" key="FileChooserDialogImpl" timestamp="1582182583848">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="195" y="299" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1582182583848" />
+    <state x="818" y="237" key="SettingsEditor" timestamp="1581757990939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="818" y="237" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581757990939" />
+    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1581754249399">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581754249399" />
+  </component>
+</project>
